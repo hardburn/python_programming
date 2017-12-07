@@ -1,0 +1,2 @@
+name=int(input("Enter the name")
+print(name,"it is owner of this repository")
